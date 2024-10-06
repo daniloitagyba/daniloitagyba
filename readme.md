@@ -3,7 +3,6 @@
 I'm a back-end developer, with more than 10 years of experience, I work mainly with the Microsoft stack (C#, .Net Core, T-Sql, Azure).
 
 <br/>
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=daniloitagyba&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=daniloitagyba&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
