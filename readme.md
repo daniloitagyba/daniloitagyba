@@ -4,7 +4,7 @@ I'm a back-end developer, with more than 10 years of experience, I work mainly w
 
 ###
 
-## 🛠 Skills
+## 🛠 Tech stack
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" alt="dotnetcore logo"  />
