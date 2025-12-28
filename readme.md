@@ -1,6 +1,6 @@
 
 ## 🚀 About Me
-I'm a back-end developer, with more than 10 years of experience, I work mainly with the Microsoft stack (C#, .Net Core, T-Sql, Azure).
+I'm a fullstack developer, with more than 10 years of experience.
 
 ###
 
@@ -33,7 +33,7 @@ I'm a back-end developer, with more than 10 years of experience, I work mainly w
 
 C# | .Net  Framework | .Net Core <br/>
 T-SQL | PL/SQL <br/>
-Javascript | React Js<br/>
+Javascript | Typescript| React <br/>
 CI/CD | Azure | AWS <br/>
 SQL Server | Oracle |  MySql |  PostgreSQL | Redis <br/>
 Unit Tests | Integration Tests <br/>
