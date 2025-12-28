@@ -33,7 +33,7 @@ I'm a fullstack developer, with more than 10 years of experience.
 
 C# | .Net  Framework | .Net Core <br/>
 T-SQL | PL/SQL <br/>
-Javascript | Typescript| React <br/>
+Javascript | Typescript | React <br/>
 CI/CD | Azure | AWS <br/>
 SQL Server | Oracle |  MySql |  PostgreSQL | Redis <br/>
 Unit Tests | Integration Tests <br/>
