@@ -1,6 +1,6 @@
 
 ## 🚀 About Me
-I'm a fullstack developer, with more than 10 years of experience.
+I'm a fullstack developer with more than 10 years of experience.
 
 ###
 
@@ -32,10 +32,12 @@ I'm a fullstack developer, with more than 10 years of experience.
 <br/>
 
 C# | .Net  Framework | .Net Core <br/>
+Node | React <br/>
 T-SQL | PL/SQL <br/>
 Javascript | Typescript | React <br/>
 CI/CD | Azure | AWS <br/>
 SQL Server | Oracle |  MySql |  PostgreSQL | Redis <br/>
+RabbitMq | Service Bus <br/>
 Unit Tests | Integration Tests <br/>
 Clean Architecture <br/>
 DDD Domain Driven Design<br/>
