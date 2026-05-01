@@ -31,21 +31,7 @@ I'm a fullstack developer with more than 10 years of experience.
 </div>
 <br/>
 
-C# | .Net  Framework | .Net Core <br/>
-Node | React <br/>
-T-SQL | PL/SQL <br/>
-Javascript | Typescript | React <br/>
-CI/CD | Azure | AWS <br/>
-SQL Server | Oracle |  MySql |  PostgreSQL | Redis <br/>
-RabbitMq | Service Bus <br/>
-Unit Tests | Integration Tests <br/>
-Clean Architecture <br/>
-DDD Domain Driven Design<br/>
-Design Patterns<br/>
-Clean Code<br/>
-SOLID<br/>
-
 
 ## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/daniloitagyba)
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://itagyba.work)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danilo-itagyba/)
