@@ -1,6 +1,6 @@
 
 ## 🚀 About Me
-I'm a fullstack developer with more than 10 years of experience.
+I'm a senior fullstack developer with more than 10 years of experience.
 
 ###
 
